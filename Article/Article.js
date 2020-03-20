@@ -133,7 +133,7 @@ function createComp(title, date, firstParagraph, secondParagraph, thirdParagraph
 
   // style
   comp.classList.add('article')
-  h2.classList.add('date')
+  para.classList.add('date')
   btn.classList.add('expandButton')
 
   // content
